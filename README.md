@@ -75,7 +75,7 @@ Siminov provides implementation for SQLCipher to protect application database fr
 
 
 ###### 9. Handling Libraries
-An android library project is a development project that holds shared android source code and resources. Other android application projects can reference the library project and, at build time, include its compiled sources in their .apk files.
+An IOS library project is a development project that holds shared IOS source code and resources. Other IOS application projects can reference the library project and, at build time, include its compiled sources in their .ipa files.
 
 Siminov provides mechanism to configure ORM for your library projects.
 
